@@ -79,7 +79,7 @@ form {
   gap:0.5em
 }
 
-input[type="text"] {
+input[type="number"] {
   border-radius:0.5em;
   border: 1px solid var(--Slate-100);
   padding: 0.5em 1em;
